@@ -38,3 +38,7 @@ Before running the script, make sure to install the following R packages:
 install.packages("readxl")
 install.packages("vegan")
 install.packages("pheatmap")
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
